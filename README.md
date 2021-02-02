@@ -63,3 +63,5 @@ cd ~/.dotfiles && brew bundle
 ## Thank You!
 
 I offer the most massive of thanks to [Jeff](https://twitter.com/jeffdelaney23 "Follow Jeff Delaney on Twitter") for giving me a few minutes on [his stage](https://fireship.page.link/youtube "Fireship YouTube Channel"). Please thank him for me by liking, sharing, subscribing, and taking a look at [fireship.io](https://fireship.io/ "Build and ship 🔥 your app ⚡ faster").
+
+ref: https://www.youtube.com/watch?v=r_MpUP6aKiQ
